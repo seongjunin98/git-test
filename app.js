@@ -1,17 +1,18 @@
 function app() {
 
-
-
-
-
-
-
-
-
-
-
-
-
     
-    console.log('conflict');
-}
+    
+    
+    
+    
+    
+   
+  
+  
+  
+  
+  
+  console.log('feature/date, console resolve conflicts');
+  
+ }
+
