@@ -2,7 +2,7 @@
 
 ## 시나리오
 
-6명의 팀이 간단한 **"팀소개(html , css , js)"** 프로젝트를 진행합니다.  
+간단한 **"소개(html , css , js)"** 프로젝트를 진행합니다.  
 각자 다른 기능을 개발한 후 `main` 브랜치에 병합해야 하며,  
 의도적으로 **충돌(Conflict)**을 발생시켜 해결 과정을 연습합니다.
 
@@ -10,8 +10,7 @@
 
 ## 1. 저장소 준비
 
-- 팀장이 `team-todo-list` 레포지토리 생성 (GitHub Organization 권장)
-- 모든 멤버를 Collaborator로 초대
+- `team-todo-list` 레포지토리 생성 (GitHub Organization 권장)
 - 초기 파일: `index.html`, `app.js`, `styles.css` (index.html 파일에 h1 팀명/h1)
 - 각각의 개인 과제에 따라 Issue 탭에 Issue 작성
 - 개인 과제가 끝남에 따라 Issue close
